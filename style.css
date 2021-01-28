@@ -1,0 +1,43 @@
+body {
+    /* margin: 0;
+    padding: 0; */
+}
+
+.all-coffee {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 200px;
+    background-color: #FDDE7E;
+}
+
+.coffee {
+    text-align: center;
+    background-color: #fff;
+    margin: 20px 0px 20px 0px;
+    width: 25%;
+}
+
+.coffee-price {
+    font-family: 'Lato', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    color: #02995B;
+}
+
+.img {
+    height: 120px;
+    width: 120px;
+}
+
+.title-coffee {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 56px;
+    font-weight: 500;
+}
+
+.text {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+
+
